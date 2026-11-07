@@ -1,0 +1,11 @@
+{
+  "name": "nimrodfisher-mods",
+  "owner": { "name": "nimrodfisher" },
+  "plugins": [
+    {
+      "name": "level-up-hud",
+      "source": "./mods/level-up-hud",
+      "description": "Gamified HUD: model, effort, 5-hour/weekly limits, XP and daily quest"
+    }
+  ]
+}
